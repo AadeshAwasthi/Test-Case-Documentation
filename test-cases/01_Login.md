@@ -225,6 +225,6 @@
 2. Enter valid password
 3. Click Login
 
-**Expected Result:** Login fails or spaces are trimmed consistently; no application crash
+**Expected Result:** Spaces are not trimmed. Login fails with the error "Username and password do not match any user in this service"
 
 ---

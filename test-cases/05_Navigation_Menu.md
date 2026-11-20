@@ -30,7 +30,7 @@
 
 1. Click the burger menu icon
 
-**Expected Result:** Menu opens with All Items, About, Logout and Reset App State
+**Expected Result:** Menu opens with All Items, Dynamic Catalog, About, Logout and Reset App State
 
 ---
 
@@ -144,7 +144,7 @@
 
 **Steps:**
 
-1. Click Twitter, Facebook and LinkedIn icons in footer
+1. Click the X (Twitter), Facebook and LinkedIn icons in the footer
 
 **Expected Result:** Each link opens the correct Sauce Labs social page in a new tab
 

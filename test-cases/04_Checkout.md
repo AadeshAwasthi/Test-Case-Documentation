@@ -156,7 +156,7 @@
 
 1. Click Finish
 
-**Expected Result:** "Thank you for your order!" message is displayed on Checkout: Complete page
+**Expected Result:** "Thank you for your order!" message is displayed on the "Checkout: Complete!" page
 
 ---
 
