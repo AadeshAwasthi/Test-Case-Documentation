@@ -13,7 +13,8 @@ Sample manual test cases written by **Aadesh Awasthi** (QA Engineer) to show how
 | Application | SauceDemo (Swag Labs) |
 | URL | https://www.saucedemo.com |
 | Type | E-commerce web application (demo) |
-| Test users | `standard_user`, `locked_out_user`, `problem_user` (shown on the login page) |
+| Test users | Six test users are shown on the login page. These test cases use `standard_user` and `locked_out_user` |
+| Not covered | Dynamic Catalog pages (Lazy Load, Spinner, Slider) are out of scope for this set |
 
 ## Test Case Summary
 
